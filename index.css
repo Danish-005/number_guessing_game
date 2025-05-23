@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: greenyellow;
+}
+
+.container {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.container .title {
+  width: 100vw;
+  height: 10vh;
+  font-size: 50px;
+  font-style: italic;
+}
+
+.container;
